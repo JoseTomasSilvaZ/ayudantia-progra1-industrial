@@ -8,7 +8,7 @@
     </div>
     <div class='max-h-[350px]'>
         <slot name='embed'>
-         <iframe src="https://www.programiz.com/cpp-programming/online-compiler/" style="border:0px #ffffff none;" name="programiz" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
+         <iframe src="https://www.programiz.com/cpp-programming/online-compiler/"  style="border:0px #ffffff none;" name="programiz" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
         </slot>
     </div>
 </div>
