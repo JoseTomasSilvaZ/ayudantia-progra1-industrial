@@ -4,7 +4,7 @@
     <div class='max-h-[350px] overflow-auto'>
         <slot  name='markdown'></slot>
     </div>
-        <small>Copia el código  y pégalo el Programiz 🚀</small>
+        <small>Copia el código  y pégalo en Programiz 🚀</small>
     </div>
     <div class='max-h-[350px]'>
         <slot name='embed'>
